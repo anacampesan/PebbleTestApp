@@ -1,0 +1,21 @@
+{
+    "author": "anazard@outlook.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "test",
+    "pebble": {
+        "displayName": "test",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "572cae7d-0ca6-46b4-9a36-fcc57c6f12c5",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
